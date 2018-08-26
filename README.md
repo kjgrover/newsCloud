@@ -1,6 +1,7 @@
 # News Cloud
 
 This application scrapes Fox News for all of it's top headlines and displays the most used words in the headlines with a word cloud.
+The working code is hosted on http://www.kelseygrover.com/scraper
 
 ## Made With
 
